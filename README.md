@@ -6,18 +6,47 @@
 [![GitHub stars](https://img.shields.io/github/stars/juniors90/Catreps)](https://github.com/juniors90/Catreps/stargazers)
 [![GitHub contributors](https://img.shields.io/github/contributors/juniors90/Catreps?color=green)](https://github.com/juniors90/Catreps/graphs/contributors)
 
-
 The GAP package for handling representations of categories in positive characteristic.
 
+## Features
+
+Commands for
+
+- [x] categories: ```SupportOfMorphism```, ```IdentityMorphism```, ```Composition```, ```IsComposable```, ```Objects```, ```Origin```, etc.
+- [x] representations: ```CatRep```, ```YonedaRep```, ```YonedaDualRep```, etc.
+- [x] lists of vectors: ```Spin```, ```CoSpin```, ```SumOfImages```, ```Decompose```, etc.
+- [x] homomorphisms: ```HomBasis``` and ```DimHom```.
+
+Commands that interface between categories and groups:
+
+- [x] ```EndomorphismGroup```, ```EndomorphismGroups```, ```MorphismsRep``` and ```Evaluation```.
+
+## Requirements
+
+GAP 4.10+
+
+## Dependecies for this project.
+
+- None
+
+##   Author and Contributors
+
+- Copyright (C) 2008 Peter Webb
+- Copyright (C) 2011 Peter Webb, Fan Zhang
+- Copyright (C) 2020 Moriah Elkin
+- Copyright (C) 2022 Ferreira Juan David
+
+The overall structure of the Catreps package was designed and most if it written by Peter Webb <webb@math.umn.edu>, who is also the maintainer. Contributions were made by Dan Christensen, Fan Zhang, Moriah Elkin and Ferreira Juan David.
 
 ## Contact
 
-TODO: add info on how to contact you and/or how to report issues with your
-package
+- Ferreira, Juan David
+
+Please submit bug reports, suggestions for improvements and patches via
+the (E-mail: juandavid9a0@gmail.com).
 
 ## License
 
-TODO: Provide information on the license of your package. A license is
-important as it determines who has a right to distribute your package. The
-"default" license to consider is GNU General Public License v2 or later, as
-that is the license of GAP itself.
+Distributed under the terms of the GNU General Public License (GPL)
+
+- http://www.gnu.org/licenses/
