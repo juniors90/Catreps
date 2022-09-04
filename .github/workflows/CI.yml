@@ -1,4 +1,4 @@
-name: CI
+name: Catreps
 
 # Trigger the workflow on push to master / main, or on pull request
 on:
