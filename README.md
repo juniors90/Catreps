@@ -1,6 +1,7 @@
 # The Catreps GAP package
 
 [![Build status](https://github.com/juniors90/Catreps/actions/workflows/CI.yml/badge.svg)](https://github.com/juniors90/Catreps/actions)
+[![codecov](https://codecov.io/gh/juniors90/Catreps/branch/main/graph/badge.svg?token=NzQ1p4s2o1)](https://codecov.io/gh/juniors90/Catreps)
 [![GitHub issues](https://img.shields.io/github/issues/juniors90/Catreps)](https://github.com/juniors90/Catreps/issues)
 [![GitHub forks](https://img.shields.io/github/forks/juniors90/Catreps)](https://github.com/juniors90/Catreps/network)
 [![GitHub stars](https://img.shields.io/github/stars/juniors90/Catreps)](https://github.com/juniors90/Catreps/stargazers)
